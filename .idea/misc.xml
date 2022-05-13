@@ -4,7 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/bottom_bar.xml" value="0.3880208333333333" />
+        <entry key="app/src/main/res/layout/center.xml" value="0.3880208333333333" />
+        <entry key="app/src/main/res/layout/dian_can_fragment.xml" value="0.3880208333333333" />
+        <entry key="app/src/main/res/layout/fragment_dian_can.xml" value="0.3890625" />
         <entry key="app/src/main/res/layout/fragment_example.xml" value="0.3890625" />
+        <entry key="app/src/main/res/layout/fragment_ping_jia.xml" value="0.3890625" />
+        <entry key="app/src/main/res/layout/ping_jia_fragment.xml" value="0.3880208333333333" />
         <entry key="app/src/main/res/layout/top_bar.xml" value="0.3880208333333333" />
       </map>
     </option>
